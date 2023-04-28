@@ -1,0 +1,32 @@
+﻿  Building Custom Rule C:/PQXX_project/libpqxx-7.7.5/src/CMakeLists.txt
+  array.cxx
+  binarystring.cxx
+  blob.cxx
+  connection.cxx
+  cursor.cxx
+  encodings.cxx
+  errorhandler.cxx
+  except.cxx
+  field.cxx
+  largeobject.cxx
+  notification.cxx
+  params.cxx
+  pipeline.cxx
+  result.cxx
+  robusttransaction.cxx
+  row.cxx
+  sql_cursor.cxx
+  strconv.cxx
+  stream_from.cxx
+  stream_to.cxx
+  Создание кода...
+  Компиляция...
+  subtransaction.cxx
+  time.cxx
+  transaction.cxx
+  transaction_base.cxx
+  util.cxx
+  version.cxx
+  wait.cxx
+  Создание кода...
+  pqxx.vcxproj -> C:\PQXX_project\Project_pqxx\build\libpqxx-build\src\Debug\pqxx.lib

@@ -1,0 +1,16 @@
+C:/PQXX_project/Project_pqxx/build/CMakeFiles/PQXX_project.dir
+C:/PQXX_project/Project_pqxx/build/CMakeFiles/PACKAGE.dir
+C:/PQXX_project/Project_pqxx/build/CMakeFiles/INSTALL.dir
+C:/PQXX_project/Project_pqxx/build/CMakeFiles/ALL_BUILD.dir
+C:/PQXX_project/Project_pqxx/build/CMakeFiles/ZERO_CHECK.dir
+C:/PQXX_project/Project_pqxx/build/libpqxx-build/CMakeFiles/PACKAGE.dir
+C:/PQXX_project/Project_pqxx/build/libpqxx-build/CMakeFiles/INSTALL.dir
+C:/PQXX_project/Project_pqxx/build/libpqxx-build/CMakeFiles/ALL_BUILD.dir
+C:/PQXX_project/Project_pqxx/build/libpqxx-build/src/CMakeFiles/pqxx.dir
+C:/PQXX_project/Project_pqxx/build/libpqxx-build/src/CMakeFiles/PACKAGE.dir
+C:/PQXX_project/Project_pqxx/build/libpqxx-build/src/CMakeFiles/INSTALL.dir
+C:/PQXX_project/Project_pqxx/build/libpqxx-build/include/CMakeFiles/PACKAGE.dir
+C:/PQXX_project/Project_pqxx/build/libpqxx-build/include/CMakeFiles/INSTALL.dir
+C:/PQXX_project/Project_pqxx/build/libpqxx-build/test/CMakeFiles/runner.dir
+C:/PQXX_project/Project_pqxx/build/libpqxx-build/test/CMakeFiles/PACKAGE.dir
+C:/PQXX_project/Project_pqxx/build/libpqxx-build/test/CMakeFiles/INSTALL.dir

@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (PQXX_project.dir\Debug\) содержит файлы, которые используются совместно с другим проектом (Lesson_3_Task_1.vcxproj, PQXX_project.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+  ClientBase.cpp
+  Создание кода...
+  PQXX_project.vcxproj -> C:\PQXX_project\Project_pqxx\build\Debug\PQXX_project.exe
